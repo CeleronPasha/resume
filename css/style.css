@@ -1,0 +1,88 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+}
+
+.main-content-sections {
+    margin: 102px auto 107px 88px;
+    
+}
+
+.about-me-sections {
+    margin-bottom: 40px;
+    margin-right: 342px;
+}
+
+.about-me-profession {
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+}
+
+.my-projects-sections {
+
+}
+
+.my-education-sections {
+
+}
+
+aside {
+    background: #1E2939;
+    color: #FFFFFF;
+    width: 370px;
+}
+
+.my-photo {
+    width: 370px;
+    height: 354px;
+    margin-top: 40px;
+}
+
+.my-contacts-sections {
+    margin: 51px 110px 47px 40px;
+
+}
+
+.my-contacts-sections h3 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.82px;
+}
+
+.my-contacts-sections span {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.my-contacts-sections a {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #344764;
+    padding-left: 5px;
+}
+
+.my-tech-skills-sections {
+    margin: 47px 150px 44px 40px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.82px;
+}
+
+.my-soft-skills-sections {
+    margin: 44px 150px 366px 40px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.82px;
+
+}
